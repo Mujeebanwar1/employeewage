@@ -1,0 +1,15 @@
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\employeewage\obj\Debug\net6.0\employeewage.csproj.AssemblyReference.cache
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\employeewage\obj\Debug\net6.0\employeewage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\employeewage\obj\Debug\net6.0\employeewage.AssemblyInfoInputs.cache
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\employeewage\obj\Debug\net6.0\employeewage.AssemblyInfo.cs
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\employeewage\obj\Debug\net6.0\employeewage.csproj.CoreCompileInputs.cache
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\employeewage\bin\Debug\net6.0\employeewage.exe
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\employeewage\bin\Debug\net6.0\employeewage.deps.json
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\employeewage\bin\Debug\net6.0\employeewage.runtimeconfig.json
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\employeewage\bin\Debug\net6.0\employeewage.dll
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\employeewage\bin\Debug\net6.0\employeewage.pdb
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\employeewage\obj\Debug\net6.0\employeewage.dll
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\employeewage\obj\Debug\net6.0\refint\employeewage.dll
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\employeewage\obj\Debug\net6.0\employeewage.pdb
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\employeewage\obj\Debug\net6.0\employeewage.genruntimeconfig.cache
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\employeewage\obj\Debug\net6.0\ref\employeewage.dll
